@@ -13,3 +13,4 @@ const navbar = (
         </ul>
     </div>
 )
+ReactDOM(navbar,document.getElementById("root"));
